@@ -13,3 +13,8 @@ hereisthevariable="5f4dcc3b5aa765d61d8327deb882cf99"
 
 hereisthevariable=str("5f4dcc3b5aa765d61d8327deb882cf99"+saltOne)
 hereisthevariable="5f4dcc3b5aa765d61d8327deb882cf99"+saltTwo
+
+
+token=str("5f4dcc3b5aa765d61d8327deb882cf99")
+token=str("5f4dcc3b5aa765d61d8327deb882cf99"+saltOne)
+token="5f4dcc3b5aa765d61d8327deb882cf99"+saltTwo
