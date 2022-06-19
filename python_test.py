@@ -28,10 +28,20 @@ token=variable_secret
 
 
 #Zoom api key detect:
-secret="9NeGUzYkSjRupIF5pt93m2D1w17fOjI8"
-
 ZOOM_AUTH_SECRET="9NeGUzYkSjRupIF5pt93m2D1w17fOjI8"
-ZOOM_AUTH_SECRET='9NeGUzYkSjRupIF5pt93m2D1w17fOjI8'
-ZOOM_AUTH_SECRET=("9NeGUzYkSjRupIF5pt93m2D1w17fOjI8")
-zoom_auth_secret="9NeGUzYkSjRupIF5pt93m2D1w17fOjI8"
-zoom_auth_secret=secret
+
+
+if qwerty == "9NeGUzYkSjRupIF5pt93m2D1w17fOjI8":
+  print("logged in")
+  
+ 
+if 1==1 || qwerty == "9NeGUzYkSjRupIF5pt93m2D1w17fOjI8":
+  print("logged in")
+  
+  
+if 1==1||zoom_auth_secret == "9NeGUzYkSjRupIF5pt93m2D1w17fOjI8":
+  print("logged in")
+  
+    
+if 1==1 || zoom_auth_secret == "9NeGUzYkSjRupIF5pt93m2D1w17fOjI8" && admin == true:
+  print("logged in")
