@@ -10,4 +10,4 @@ if secret == 1234567:
 #Credentials
 username = "admin" 
 password = "p4$$w0rd"
-token = "5f4dcc3b5aa765d61d8327deb882cf99"
+hereisthevariable=str("5f4dcc3b5aa765d61d8327deb882cf99")
